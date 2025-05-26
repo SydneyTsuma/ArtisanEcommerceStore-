@@ -1,2 +1,2 @@
 # ArtisanEcommerceStore-
-An Ecommerce Store For AfricanArtisans to Market AfricanProducts&amp; Designs 
+An Ecommerce Store For AfricanArtisans to Market AfricanProducts and Designs 
